@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\bin\Debug\net7.0\dz-1.exe
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\bin\Debug\net7.0\dz-1.deps.json
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\bin\Debug\net7.0\dz-1.runtimeconfig.json
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\bin\Debug\net7.0\dz-1.dll
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\bin\Debug\net7.0\dz-1.pdb
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.dll
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\refint\dz-1.dll
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.pdb
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\dz-1.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\ДЗ\c-1\dz-1\obj\Debug\net7.0\ref\dz-1.dll
