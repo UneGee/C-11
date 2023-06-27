@@ -73,4 +73,49 @@ if (R > -100 && R < 100)
 является ли этот день выходным.(использовать И и ИЛИ)
 6 -> да
 7 -> да
-1 -> нет*/
+1 -> нет
+
+Console.Write("Напишите цифру дня недели: ");
+int Date = int.Parse(Console.ReadLine()!);
+
+if (Date == 1)
+{
+    Console.WriteLine("Сегодня ПОНЕДЕЛЬНИК: ");
+}
+
+if (Date == 2)
+{
+    Console.WriteLine("Сегодня ВТОРНИК: ");
+}
+
+if (Date == 3)
+{
+    Console.WriteLine("Сегодня СРЕДА: ");
+}
+
+if (Date == 4)
+{
+    Console.WriteLine("Сегодня ЧЕТВЕРГ: ");
+}
+
+if (Date == 5)
+{
+    Console.WriteLine("Сегодня ПЯТНИЦА: ");
+}
+
+if (Date == 6)
+{
+    Console.WriteLine("Сегодня СУББОТА: ");
+}
+
+if (Date == 7)
+{
+    Console.WriteLine("Сегодня ВОСКРЕСЕНЬЕ: ");
+}
+
+if (Date >= 1 && Date <= 5)
+{
+    Console.WriteLine("Сегодня будний день: ");
+}
+
+else Console.WriteLine("Выходной!!!!");*/
