@@ -55,16 +55,16 @@ int ReadInt(string window)
 
 /*Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 3, 5 -> 243 (3⁵)
-2, 4 -> 16*/
+2, 4 -> 16
 
 Console.WriteLine("Enter to number A: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter to number B: ");
 int b = Convert.ToInt32(Console.ReadLine());
-int step = a;
+int jump = a;
 
 for (int i = 1; i < b; i++)
 {
-    step = step * a;
+    jump = jump * a;
 }
-Console.WriteLine($"A to the extent of B: " + step);
+Console.WriteLine($"A to the extent of B: " + jump);*/
